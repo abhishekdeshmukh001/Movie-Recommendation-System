@@ -25,3 +25,9 @@ This repository houses the code and resources for a comprehensive Movie Recommen
 - **README.md:** A comprehensive guide detailing the project's objectives, features, setup instructions, and usage guidelines. This document serves as a quick reference for users and developers.
 
 The Movie Recommender System combines data-driven techniques with user-friendly design to offer an enhanced movie-watching journey. By analyzing user preferences and historical data, it consistently delivers relevant movie suggestions, making it an invaluable tool for movie enthusiasts.
+
+## Screenshots
+
+- Home Page
+
+![App Screenshot](https://github.com/abhishekdeshmukh001/Movie-Recommendation-System/blob/main/Output-1.png)
