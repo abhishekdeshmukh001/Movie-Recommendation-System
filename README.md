@@ -26,6 +26,8 @@ This repository houses the code and resources for a comprehensive Movie Recommen
 
 The Movie Recommender System combines data-driven techniques with user-friendly design to offer an enhanced movie-watching journey. By analyzing user preferences and historical data, it consistently delivers relevant movie suggestions, making it an invaluable tool for movie enthusiasts.
 
+---
+
 >## Screenshots
 
 - ****Output****
