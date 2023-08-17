@@ -28,6 +28,8 @@ The Movie Recommender System combines data-driven techniques with user-friendly 
 
 ## Screenshots
 
-- Home Page
+- ****Output****
+![Output-1](https://github.com/abhishekdeshmukh001/Movie-Recommendation-System/assets/87901423/802c1ef2-e3c0-4283-9beb-34a9296c1639)
 
-![App Screenshot](https://github.com/abhishekdeshmukh001/Movie-Recommendation-System/blob/main/Output-1.png?raw=true)
+![Output-2](https://github.com/abhishekdeshmukh001/Movie-Recommendation-System/assets/87901423/9cc7c1cb-e452-404b-b398-11d53364d0ae)
+
